@@ -93,7 +93,7 @@ ul{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: linear-gradient(to right, rgba(118,118,118, 0.5), rgba(118,118,118, 0.8)), url(../imges/2_11.jpg);
+    /* background-image: linear-gradient(to right, rgba(118,118,118, 0.5), rgba(118,118,118, 0.8)), url(../imges/2_11.jpg); */
     box-sizing: border-box;
 }
 
@@ -107,7 +107,7 @@ ul{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: linear-gradient(to right, rgba(255, 255, 255, 0.66), rgba(255, 255, 255, 0.66)), url(../imges/pexels-rocsana99-948185\ \(1\).jpg);
+    /* background-image: linear-gradient(to right, rgba(255, 255, 255, 0.66), rgba(255, 255, 255, 0.66)), url(../imges/pexels-rocsana99-948185\ \(1\).jpg); */
     box-sizing: border-box;
 }
 
@@ -121,7 +121,7 @@ ul{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: linear-gradient(to right, rgba(118,118,118, 0.5), rgba(118,118,118, 0.8)), url(../imges/restoran\ \(2\).jpg);
+    /* background-image: linear-gradient(to right, rgba(118,118,118, 0.5), rgba(118,118,118, 0.8)), url(../imges/restoran\ \(2\).jpg); */
     box-sizing: border-box;
 }
 
@@ -151,8 +151,8 @@ ul{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: linear-gradient(to right, rgba(118,118,118, 0.1), rgba(118,118,118, 0.1)), url(../imges/pexels-dariabuntaria-8845850.jpg);
-    box-sizing: border-box;
+    /* background-image: linear-gradient(to right, rgba(118,118,118, 0.1), rgba(118,118,118, 0.1)), url(../imges/pexels-dariabuntaria-8845850.jpg);
+    box-sizing: border-box; */
 }
 
 .program-day{
@@ -165,7 +165,7 @@ ul{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: linear-gradient(to right, rgba(118,118,118, 0.1), rgba(118,118,118, 0.1)), url(../imges/fon3.jpeg);
+    /* background-image: linear-gradient(to right, rgba(118,118,118, 0.1), rgba(118,118,118, 0.1)), url(../imges/fon3.jpeg); */
     box-sizing: border-box;
 }
 
@@ -186,7 +186,7 @@ ul{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: linear-gradient(to right, rgba(118,118,118, 0.1), rgba(118,118,118, 0.1)), url(../imges/fon4.jpeg);
+    /* background-image: linear-gradient(to right, rgba(118,118,118, 0.1), rgba(118,118,118, 0.1)), url(../imges/fon4.jpeg); */
     box-sizing: border-box;
 }
 
