@@ -74,17 +74,29 @@ ul{
     max-width: 1200px;
     margin: 0 auto;
     
+    
     text-align: center;
     color: #ffffffff;
 }
 
+.container_vitanja_header{
+    margin: 0 0 0 auto;
+}
+
+/* .container_fon{
+    margin-left: 397px;
+    margin-right: auto;
+} */
+
 .container_vitanja{
     background-color: rgba(255, 255, 255, 0.66);
     color: black;
+    padding-top: 150px;
+    padding-bottom: 150px;
 }
 
 .headline {
-    max-width: 1540px;
+    /* max-width: 1540px; */
     height: 905px;
     margin-left: auto;
     margin-right: auto;
@@ -93,22 +105,27 @@ ul{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    /* background-image: linear-gradient(to right, rgba(118,118,118, 0.5), rgba(118,118,118, 0.8)), url(../imges/2_11.jpg); */
+    background-image: linear-gradient(to right, rgba(118,118,118, 0.5), rgba(118,118,118, 0.8)), url(../imges/fon_1.jpeg);
     box-sizing: border-box;
 }
 
 .vitanja{
-    padding-top: 85px;
-    padding-bottom: 85px;
-    max-width: 1540px;
+    /* padding-top: 85px;
+    padding-bottom: 85px; */
+    /* max-width: 1540px; */
     max-height: 905px;
     margin-left: auto;
     margin-right: auto;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    /* background-image: linear-gradient(to right, rgba(255, 255, 255, 0.66), rgba(255, 255, 255, 0.66)), url(../imges/pexels-rocsana99-948185\ \(1\).jpg); */
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0.66), rgba(255, 255, 255, 0.66)), url(../imges/fon_2.jpg);
     box-sizing: border-box;
+}
+
+.vitanja_container{
+    margin-right: 0;
+    padding-right: 0;
 }
 
 .restoran{
